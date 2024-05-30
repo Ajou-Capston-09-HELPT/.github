@@ -72,13 +72,13 @@ AI 코칭 서비스를 모바일 TTS로 제공하고 있습니다.
 <br><br>
 
 ## 팀원 소개
-| 이름         | 역할                    | Bio                                                                                     |
+| 이름         | 역할                    | 이메일                                                                                     |
 |--------------|-------------------------|-----------------------------------------------------------------------------------------|
-| **이정민** | Leader, BE | John has over 10 years of experience in project management and oversees the project.     |
-| **송인범** | BE, CI/CD | Jane is an expert in Android development with a focus on creating intuitive UIs.        |
-| **한아영** | FE | Tom is passionate about Android development and loves working on cutting-edge mobile tech. |
-| **최영환** | FE | Emily specializes in Spring Boot and has a strong background in server-side development.|
-| **최윤서** | AI | Michael is keen on scalable web applications and backend technologies.                  |
+| **이정민** | Leader, BE | kyungheeyj45@ajou.ac.kr |
+| **송인범** | BE, CI/CD | dlsqja3436@ajou.ac.kr |
+| **한아영** | FE | hay0107@ajou.ac.kr |
+| **최영환** | FE | gihan56@ajou.ac.kr |
+| **최윤서** | AI | chldbstj0512@ajou.ac.kr |
 
 <br><br>
 
