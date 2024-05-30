@@ -24,6 +24,8 @@ AI 코칭 서비스를 모바일 TTS로 제공하고 있습니다.
   </a>
 </p>
 
+<br><br>
+
 ## 기술 스택
 
 ### Application
@@ -67,6 +69,8 @@ AI 코칭 서비스를 모바일 TTS로 제공하고 있습니다.
     <img src="https://img.shields.io/badge/Google%20Drive-34A853?style=flat&logo=google-drive&logoColor=white" />
 </div>
 
+<br><br>
+
 ## 팀원 소개
 | 이름         | 역할                    | Bio                                                                                     |
 |--------------|-------------------------|-----------------------------------------------------------------------------------------|
@@ -76,6 +80,7 @@ AI 코칭 서비스를 모바일 TTS로 제공하고 있습니다.
 | **최영환** | FE | Emily specializes in Spring Boot and has a strong background in server-side development.|
 | **최윤서** | AI | Michael is keen on scalable web applications and backend technologies.                  |
 
+<br><br>
 
 ## 소프트웨어 아키텍처
 ![image](https://github.com/Ajou-Capston-09-HELPT/.github/assets/48830509/964da7f1-eea6-48d9-a2ef-71deb40e7e5c)
