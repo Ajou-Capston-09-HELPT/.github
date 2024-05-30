@@ -1,26 +1,27 @@
-# Awesome Organization
+# HELPT
 
-Welcome to the Awesome Organization! We are dedicated to building amazing open-source projects.
+조직의 간단한 설명과 목적을 여기에 작성합니다.
 
-## Projects
+## 프로젝트 목록
 
-Here are some of the key projects we are working on:
+조직에서 관리하는 주요 프로젝트들에 대한 간단한 소개와 링크를 포함합니다.
 
-- [Awesome Project 1](https://github.com/awesome-org/awesome-project-1): A project that does awesome things.
-- [Awesome Project 2](https://github.com/awesome-org/awesome-project-2): Another project that makes life easier.
+- [프로젝트 이름](프로젝트 링크): 프로젝트 설명
+- [프로젝트 이름](프로젝트 링크): 프로젝트 설명
 
-## How to Contribute
+## 기여 방법
 
-We welcome contributions from everyone. To contribute, follow these steps:
+조직에 기여하는 방법을 설명합니다. 이 섹션은 기여자들에게 필요한 정보를 제공합니다.
 
-1. Fork the repository you want to contribute to.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+1. 프로젝트를 포크합니다.
+2. 새로운 브랜치를 생성합니다 (`git checkout -b feature-branch`).
+3. 변경 사항을 커밋합니다 (`git commit -am 'Add new feature'`).
+4. 브랜치에 푸시합니다 (`git push origin feature-branch`).
+5. 풀 리퀘스트를 생성합니다.
 
-Please read our [contributing guidelines](https://github.com/awesome-org/CONTRIBUTING.md) for more details.
+## 라이선스
 
-## License
+조직의 프로젝트가 따르는 라이선스 정보를 명시합니다. 예:
 
-All projects are licensed under the MIT License. See [LICENSE](https://github.com/awesome-org/LICENSE) for more information.
+```markdown
+MIT License
